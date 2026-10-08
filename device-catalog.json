@@ -1,1 +1,8082 @@
-
+{
+  "version": "2026.10.08",
+  "updatedAt": "2026-10-08",
+  "devices": [
+    {
+      "type": "Cellphone",
+      "brand": "Apple",
+      "series": "iPhone",
+      "model": "11"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Apple",
+      "series": "iPhone",
+      "model": "11 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Apple",
+      "series": "iPhone",
+      "model": "11 Pro Max"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Apple",
+      "series": "iPhone",
+      "model": "12 mini"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Apple",
+      "series": "iPhone",
+      "model": "12"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Apple",
+      "series": "iPhone",
+      "model": "12 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Apple",
+      "series": "iPhone",
+      "model": "12 Pro Max"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Apple",
+      "series": "iPhone",
+      "model": "13 mini"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Apple",
+      "series": "iPhone",
+      "model": "13"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Apple",
+      "series": "iPhone",
+      "model": "13 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Apple",
+      "series": "iPhone",
+      "model": "13 Pro Max"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Apple",
+      "series": "iPhone",
+      "model": "14"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Apple",
+      "series": "iPhone",
+      "model": "14 Plus"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Apple",
+      "series": "iPhone",
+      "model": "14 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Apple",
+      "series": "iPhone",
+      "model": "14 Pro Max"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Apple",
+      "series": "iPhone",
+      "model": "15"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Apple",
+      "series": "iPhone",
+      "model": "15 Plus"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Apple",
+      "series": "iPhone",
+      "model": "15 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Apple",
+      "series": "iPhone",
+      "model": "15 Pro Max"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Apple",
+      "series": "iPhone",
+      "model": "16"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Apple",
+      "series": "iPhone",
+      "model": "16 Plus"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Apple",
+      "series": "iPhone",
+      "model": "16 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Apple",
+      "series": "iPhone",
+      "model": "16 Pro Max"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Apple",
+      "series": "iPhone",
+      "model": "16e"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Apple",
+      "series": "iPhone",
+      "model": "17"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Apple",
+      "series": "iPhone",
+      "model": "17 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Apple",
+      "series": "iPhone",
+      "model": "17 Pro Max"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Apple",
+      "series": "iPhone",
+      "model": "Air"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy S",
+      "model": "20"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy S",
+      "model": "20+"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy S",
+      "model": "20 Ultra"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy S",
+      "model": "21"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy S",
+      "model": "21+"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy S",
+      "model": "21 Ultra"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy S",
+      "model": "22"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy S",
+      "model": "22+"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy S",
+      "model": "22 Ultra"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy S",
+      "model": "23"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy S",
+      "model": "23+"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy S",
+      "model": "23 Ultra"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy S",
+      "model": "24"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy S",
+      "model": "24+"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy S",
+      "model": "24 Ultra"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy S",
+      "model": "25"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy S",
+      "model": "25+"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy S",
+      "model": "25 Ultra"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy A",
+      "model": "10"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy A",
+      "model": "20"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy A",
+      "model": "30"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy A",
+      "model": "50"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy A",
+      "model": "51"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy A",
+      "model": "52"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy A",
+      "model": "53"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy A",
+      "model": "54"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy A",
+      "model": "55"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy A",
+      "model": "14"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy A",
+      "model": "15"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy A",
+      "model": "24"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy A",
+      "model": "25"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy A",
+      "model": "34"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy A",
+      "model": "35"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy A",
+      "model": "73"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy Z",
+      "model": "Flip3"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy Z",
+      "model": "Flip4"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy Z",
+      "model": "Flip5"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy Z",
+      "model": "Flip6"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy Z",
+      "model": "Fold3"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy Z",
+      "model": "Fold4"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy Z",
+      "model": "Fold5"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy Z",
+      "model": "Fold6"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy Z",
+      "model": "Fold7"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy Note",
+      "model": "Note 8"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy Note",
+      "model": "Note 9"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy Note",
+      "model": "Note 10"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy Note",
+      "model": "Note 10+"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy Note",
+      "model": "Note 20"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy Note",
+      "model": "Note 20 Ultra"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Xiaomi",
+      "series": "Xiaomi",
+      "model": "12"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Xiaomi",
+      "series": "Xiaomi",
+      "model": "12T"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Xiaomi",
+      "series": "Xiaomi",
+      "model": "12T Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Xiaomi",
+      "series": "Xiaomi",
+      "model": "13"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Xiaomi",
+      "series": "Xiaomi",
+      "model": "13T"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Xiaomi",
+      "series": "Xiaomi",
+      "model": "13T Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Xiaomi",
+      "series": "Xiaomi",
+      "model": "14"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Xiaomi",
+      "series": "Xiaomi",
+      "model": "14T"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Xiaomi",
+      "series": "Xiaomi",
+      "model": "14T Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Xiaomi",
+      "series": "Xiaomi",
+      "model": "15"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Xiaomi",
+      "series": "Mi",
+      "model": "9"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Xiaomi",
+      "series": "Mi",
+      "model": "10"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Xiaomi",
+      "series": "Mi",
+      "model": "11"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Xiaomi",
+      "series": "POCO",
+      "model": "F3"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Xiaomi",
+      "series": "POCO",
+      "model": "F4"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Xiaomi",
+      "series": "POCO",
+      "model": "F5"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Xiaomi",
+      "series": "POCO",
+      "model": "F6"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Xiaomi",
+      "series": "POCO",
+      "model": "X3 NFC"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Xiaomi",
+      "series": "POCO",
+      "model": "X3 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Xiaomi",
+      "series": "POCO",
+      "model": "X4 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Xiaomi",
+      "series": "POCO",
+      "model": "X5 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Xiaomi",
+      "series": "POCO",
+      "model": "X6"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Xiaomi",
+      "series": "POCO",
+      "model": "X6 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Xiaomi",
+      "series": "POCO",
+      "model": "X7 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi Note",
+      "model": "8"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi Note",
+      "model": "9"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi Note",
+      "model": "10"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi Note",
+      "model": "10 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi Note",
+      "model": "11"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi Note",
+      "model": "11 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi Note",
+      "model": "12"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi Note",
+      "model": "12 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi Note",
+      "model": "13"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi Note",
+      "model": "13 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi Note",
+      "model": "14"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi Note",
+      "model": "14 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi",
+      "model": "9"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi",
+      "model": "10"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi",
+      "model": "10C"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi",
+      "model": "12C"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi",
+      "model": "13C"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi",
+      "model": "14C"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Reno",
+      "model": "4"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Reno",
+      "model": "5"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Reno",
+      "model": "6"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Reno",
+      "model": "7"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Reno",
+      "model": "8"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Reno",
+      "model": "10"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Reno",
+      "model": "11"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Reno",
+      "model": "12"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Reno",
+      "model": "13"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "A",
+      "model": "15"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "A",
+      "model": "16"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "A",
+      "model": "17"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "A",
+      "model": "31"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "A",
+      "model": "54"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "A",
+      "model": "57"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "A",
+      "model": "58"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "A",
+      "model": "78"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "A",
+      "model": "79"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Find X",
+      "model": "3 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Find X",
+      "model": "5 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Find X",
+      "model": "6 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Find X",
+      "model": "7 Ultra"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Find X",
+      "model": "8 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "V",
+      "model": "20"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "V",
+      "model": "21"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "V",
+      "model": "23"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "V",
+      "model": "25"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "V",
+      "model": "27"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "V",
+      "model": "29"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "V",
+      "model": "30"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "V",
+      "model": "40"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "V",
+      "model": "50"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "V",
+      "model": "60"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "Y",
+      "model": "12"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "Y",
+      "model": "15"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "Y",
+      "model": "16"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "Y",
+      "model": "17"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "Y",
+      "model": "20"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "Y",
+      "model": "21"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "Y",
+      "model": "22"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "Y",
+      "model": "27"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "Y",
+      "model": "28"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "Y",
+      "model": "36"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "Y",
+      "model": "100"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "X",
+      "model": "50"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "X",
+      "model": "60"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "X",
+      "model": "70"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "X",
+      "model": "80"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "X",
+      "model": "90"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "X",
+      "model": "100"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Realme",
+      "series": "C",
+      "model": "11"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Realme",
+      "series": "C",
+      "model": "12"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Realme",
+      "series": "C",
+      "model": "13"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Realme",
+      "series": "C",
+      "model": "14"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Realme",
+      "series": "C",
+      "model": "15"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Realme",
+      "series": "Narzo",
+      "model": "50"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Realme",
+      "series": "Narzo",
+      "model": "60"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Realme",
+      "series": "Narzo",
+      "model": "70"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Realme",
+      "series": "GT",
+      "model": "2"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Realme",
+      "series": "GT",
+      "model": "3"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Realme",
+      "series": "GT",
+      "model": "5"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Realme",
+      "series": "GT",
+      "model": "6"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Realme",
+      "series": "GT",
+      "model": "7"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Realme",
+      "series": "Number",
+      "model": "8"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Realme",
+      "series": "Number",
+      "model": "9"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Realme",
+      "series": "Number",
+      "model": "10"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Realme",
+      "series": "Number",
+      "model": "11"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Realme",
+      "series": "Number",
+      "model": "12"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Realme",
+      "series": "Number",
+      "model": "13"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Realme",
+      "series": "Number",
+      "model": "14"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "X",
+      "model": "7"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "X",
+      "model": "8"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "X",
+      "model": "9"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "X",
+      "model": "10"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "X",
+      "model": "20"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "X",
+      "model": "30"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "X",
+      "model": "40"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "X",
+      "model": "50"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "X",
+      "model": "60"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "X",
+      "model": "70"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "X",
+      "model": "80"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "X",
+      "model": "90"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "Magic",
+      "model": "4 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "Magic",
+      "model": "5 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "Magic",
+      "model": "6 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "Magic",
+      "model": "7 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "200",
+      "model": "200"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "200",
+      "model": "200 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "P",
+      "model": "30"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "P",
+      "model": "40"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "P",
+      "model": "50"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "P",
+      "model": "60"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "P",
+      "model": "70"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "Mate",
+      "model": "20"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "Mate",
+      "model": "30"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "Mate",
+      "model": "40"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "Mate",
+      "model": "50"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "Mate",
+      "model": "60"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "Nova",
+      "model": "5"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "Nova",
+      "model": "7"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "Nova",
+      "model": "8"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "Nova",
+      "model": "9"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "Nova",
+      "model": "10"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "Nova",
+      "model": "11"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "Nova",
+      "model": "12"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "Nova",
+      "model": "13"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Moto G",
+      "model": "Power"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Moto G",
+      "model": "Stylus"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Moto G",
+      "model": "Play"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Moto G",
+      "model": "50"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Moto G",
+      "model": "60"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Moto G",
+      "model": "75"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Edge",
+      "model": "20"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Edge",
+      "model": "30"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Edge",
+      "model": "40"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Edge",
+      "model": "50"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Edge",
+      "model": "60"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Razr",
+      "model": "40"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Razr",
+      "model": "50"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Razr",
+      "model": "60"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "Hot",
+      "model": "10"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "Hot",
+      "model": "11"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "Hot",
+      "model": "12"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "Hot",
+      "model": "20"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "Hot",
+      "model": "30"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "Hot",
+      "model": "40"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "Hot",
+      "model": "50"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "Hot",
+      "model": "50 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "Hot",
+      "model": "60"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "Note",
+      "model": "10"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "Note",
+      "model": "11"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "Note",
+      "model": "12"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "Note",
+      "model": "30"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "Note",
+      "model": "40"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "Note",
+      "model": "50"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "Zero",
+      "model": "8"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "Zero",
+      "model": "20"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "Zero",
+      "model": "30"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "Zero",
+      "model": "40"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "Spark",
+      "model": "8"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "Spark",
+      "model": "9"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "Spark",
+      "model": "10"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "Spark",
+      "model": "20"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "Spark",
+      "model": "30"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "Spark",
+      "model": "40"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "Spark",
+      "model": "50"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "Camon",
+      "model": "17"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "Camon",
+      "model": "18"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "Camon",
+      "model": "19"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "Camon",
+      "model": "20"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "Camon",
+      "model": "30"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "Camon",
+      "model": "40"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "Pova",
+      "model": "3"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "Pova",
+      "model": "4"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "Pova",
+      "model": "5"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "Pova",
+      "model": "6"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "Pova",
+      "model": "7"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "ThinkPad",
+      "model": "T480"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "ThinkPad",
+      "model": "T490"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "ThinkPad",
+      "model": "T14 Gen 1"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "ThinkPad",
+      "model": "T14 Gen 2"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "ThinkPad",
+      "model": "T14 Gen 3"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "ThinkPad",
+      "model": "T14 Gen 4"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "ThinkPad",
+      "model": "X1 Carbon Gen 8"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "ThinkPad",
+      "model": "X1 Carbon Gen 9"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "ThinkPad",
+      "model": "X1 Carbon Gen 10"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "ThinkPad",
+      "model": "E14 Gen 3"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "ThinkPad",
+      "model": "E14 Gen 4"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "ThinkPad",
+      "model": "E15"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "IdeaPad",
+      "model": "3"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "IdeaPad",
+      "model": "5"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "IdeaPad",
+      "model": "Slim 3"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "IdeaPad",
+      "model": "Slim 5"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "Legion",
+      "model": "5"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "Legion",
+      "model": "5 Pro"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "Legion",
+      "model": "7"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "Legion",
+      "model": "7i"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "Legion",
+      "model": "Slim 5"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "Legion",
+      "model": "Slim 7"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "LOQ",
+      "model": "15"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "LOQ",
+      "model": "16"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "Yoga",
+      "model": "Slim 6"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "Yoga",
+      "model": "Slim 7"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "Yoga",
+      "model": "7"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "Yoga",
+      "model": "9i"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "Pavilion",
+      "model": "14"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "Pavilion",
+      "model": "15"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "Pavilion",
+      "model": "Plus 14"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "Pavilion",
+      "model": "Plus 16"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "ProBook",
+      "model": "440 G8"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "ProBook",
+      "model": "450 G8"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "ProBook",
+      "model": "440 G9"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "ProBook",
+      "model": "450 G9"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "ProBook",
+      "model": "440 G10"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "ProBook",
+      "model": "450 G10"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "EliteBook",
+      "model": "840 G7"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "EliteBook",
+      "model": "840 G8"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "EliteBook",
+      "model": "840 G9"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "EliteBook",
+      "model": "840 G10"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "Victus",
+      "model": "15"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "Victus",
+      "model": "16"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "OMEN",
+      "model": "15"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "OMEN",
+      "model": "16"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "OMEN",
+      "model": "17"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "Envy",
+      "model": "13"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "Envy",
+      "model": "14"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "Envy",
+      "model": "15"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "Envy",
+      "model": "16"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "Inspiron",
+      "model": "14"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "Inspiron",
+      "model": "15"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "Inspiron",
+      "model": "16"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "Inspiron",
+      "model": "3000"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "Inspiron",
+      "model": "5000"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "Inspiron",
+      "model": "7000"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "Latitude",
+      "model": "5410"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "Latitude",
+      "model": "5420"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "Latitude",
+      "model": "5430"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "Latitude",
+      "model": "5440"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "Latitude",
+      "model": "5510"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "Latitude",
+      "model": "5520"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "Latitude",
+      "model": "5530"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "XPS",
+      "model": "13"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "XPS",
+      "model": "13 Plus"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "XPS",
+      "model": "15"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "XPS",
+      "model": "17"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "Vostro",
+      "model": "3400"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "Vostro",
+      "model": "3500"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "Vostro",
+      "model": "3510"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "Vostro",
+      "model": "3520"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "G Series",
+      "model": "15"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "G Series",
+      "model": "16"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "Alienware",
+      "model": "m15"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "Alienware",
+      "model": "m16"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "Alienware",
+      "model": "m18"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "VivoBook",
+      "model": "14"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "VivoBook",
+      "model": "15"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "VivoBook",
+      "model": "16"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "VivoBook",
+      "model": "S14"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "VivoBook",
+      "model": "S15"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "VivoBook",
+      "model": "S16"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "ZenBook",
+      "model": "13"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "ZenBook",
+      "model": "14"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "ZenBook",
+      "model": "15"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "ZenBook",
+      "model": "UX425"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "ZenBook",
+      "model": "UX434"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "ZenBook",
+      "model": "UX435"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "ROG Strix",
+      "model": "G15"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "ROG Strix",
+      "model": "G16"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "ROG Strix",
+      "model": "G17"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "ROG Strix",
+      "model": "G18"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "ROG Strix",
+      "model": "Scar 15"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "ROG Strix",
+      "model": "Scar 16"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "ROG Strix",
+      "model": "Scar 17"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "ROG Strix",
+      "model": "Scar 18"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "TUF Gaming",
+      "model": "FX505"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "TUF Gaming",
+      "model": "FX506"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "TUF Gaming",
+      "model": "FX507"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "TUF Gaming",
+      "model": "A15"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "TUF Gaming",
+      "model": "A16"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "TUF Gaming",
+      "model": "F15"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "TUF Gaming",
+      "model": "F17"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "ExpertBook",
+      "model": "B1"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "ExpertBook",
+      "model": "B5"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Acer",
+      "series": "Aspire",
+      "model": "3"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Acer",
+      "series": "Aspire",
+      "model": "5"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Acer",
+      "series": "Aspire",
+      "model": "7"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Acer",
+      "series": "Swift",
+      "model": "3"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Acer",
+      "series": "Swift",
+      "model": "5"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Acer",
+      "series": "Swift",
+      "model": "Go 14"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Acer",
+      "series": "Swift",
+      "model": "Go 16"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Acer",
+      "series": "Swift",
+      "model": "X"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Acer",
+      "series": "Nitro",
+      "model": "5"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Acer",
+      "series": "Nitro",
+      "model": "16"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Acer",
+      "series": "Nitro",
+      "model": "17"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Acer",
+      "series": "Predator",
+      "model": "Helios 300"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Acer",
+      "series": "Predator",
+      "model": "Helios 16"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Acer",
+      "series": "Predator",
+      "model": "Helios 18"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Acer",
+      "series": "Predator",
+      "model": "Triton 300"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Acer",
+      "series": "TravelMate",
+      "model": "P2"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Acer",
+      "series": "TravelMate",
+      "model": "P4"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Apple",
+      "series": "MacBook Air",
+      "model": "2018"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Apple",
+      "series": "MacBook Air",
+      "model": "2019"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Apple",
+      "series": "MacBook Air",
+      "model": "2020 Intel"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Apple",
+      "series": "MacBook Air",
+      "model": "M1"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Apple",
+      "series": "MacBook Air",
+      "model": "M2"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Apple",
+      "series": "MacBook Air",
+      "model": "M3"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Apple",
+      "series": "MacBook Air",
+      "model": "M4"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Apple",
+      "series": "MacBook Air",
+      "model": "15-inch M2"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Apple",
+      "series": "MacBook Air",
+      "model": "15-inch M3"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Apple",
+      "series": "MacBook Pro",
+      "model": "13-inch M1"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Apple",
+      "series": "MacBook Pro",
+      "model": "14-inch M1 Pro"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Apple",
+      "series": "MacBook Pro",
+      "model": "14-inch M2 Pro"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Apple",
+      "series": "MacBook Pro",
+      "model": "14-inch M3"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Apple",
+      "series": "MacBook Pro",
+      "model": "14-inch M4"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Apple",
+      "series": "MacBook Pro",
+      "model": "16-inch M1 Pro"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Apple",
+      "series": "MacBook Pro",
+      "model": "16-inch M2 Pro"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Apple",
+      "series": "MacBook Pro",
+      "model": "16-inch M3 Pro"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Apple",
+      "series": "MacBook Pro",
+      "model": "16-inch M4 Pro"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Apple",
+      "series": "MacBook",
+      "model": "2015"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Apple",
+      "series": "MacBook",
+      "model": "2016"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Apple",
+      "series": "MacBook",
+      "model": "2017"
+    },
+    {
+      "type": "Laptop",
+      "brand": "MSI",
+      "series": "Modern",
+      "model": "14"
+    },
+    {
+      "type": "Laptop",
+      "brand": "MSI",
+      "series": "Modern",
+      "model": "15"
+    },
+    {
+      "type": "Laptop",
+      "brand": "MSI",
+      "series": "Prestige",
+      "model": "14"
+    },
+    {
+      "type": "Laptop",
+      "brand": "MSI",
+      "series": "Prestige",
+      "model": "15"
+    },
+    {
+      "type": "Laptop",
+      "brand": "MSI",
+      "series": "Prestige",
+      "model": "16"
+    },
+    {
+      "type": "Laptop",
+      "brand": "MSI",
+      "series": "Katana",
+      "model": "15"
+    },
+    {
+      "type": "Laptop",
+      "brand": "MSI",
+      "series": "Katana",
+      "model": "17"
+    },
+    {
+      "type": "Laptop",
+      "brand": "MSI",
+      "series": "Cyborg",
+      "model": "14"
+    },
+    {
+      "type": "Laptop",
+      "brand": "MSI",
+      "series": "Cyborg",
+      "model": "15"
+    },
+    {
+      "type": "Laptop",
+      "brand": "MSI",
+      "series": "Raider",
+      "model": "GE66"
+    },
+    {
+      "type": "Laptop",
+      "brand": "MSI",
+      "series": "Raider",
+      "model": "GE67"
+    },
+    {
+      "type": "Laptop",
+      "brand": "MSI",
+      "series": "Raider",
+      "model": "GE68"
+    },
+    {
+      "type": "Laptop",
+      "brand": "MSI",
+      "series": "Raider",
+      "model": "GE76"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Huawei",
+      "series": "MateBook",
+      "model": "D14"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Huawei",
+      "series": "MateBook",
+      "model": "D15"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Huawei",
+      "series": "MateBook",
+      "model": "D16"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Huawei",
+      "series": "MateBook",
+      "model": "14"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Huawei",
+      "series": "MateBook",
+      "model": "16"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Huawei",
+      "series": "MateBook",
+      "model": "X Pro"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Microsoft",
+      "series": "Surface Laptop",
+      "model": "3"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Microsoft",
+      "series": "Surface Laptop",
+      "model": "4"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Microsoft",
+      "series": "Surface Laptop",
+      "model": "5"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Microsoft",
+      "series": "Surface Laptop",
+      "model": "6"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Microsoft",
+      "series": "Surface Laptop",
+      "model": "7"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Microsoft",
+      "series": "Surface Pro",
+      "model": "6"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Microsoft",
+      "series": "Surface Pro",
+      "model": "7"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Microsoft",
+      "series": "Surface Pro",
+      "model": "8"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Microsoft",
+      "series": "Surface Pro",
+      "model": "9"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Microsoft",
+      "series": "Surface Pro",
+      "model": "10"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Microsoft",
+      "series": "Surface Pro",
+      "model": "11"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Microsoft",
+      "series": "Surface Book",
+      "model": "2"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Microsoft",
+      "series": "Surface Book",
+      "model": "3"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Samsung",
+      "series": "Galaxy Book",
+      "model": "2"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Samsung",
+      "series": "Galaxy Book",
+      "model": "3"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Samsung",
+      "series": "Galaxy Book",
+      "model": "4"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Samsung",
+      "series": "Galaxy Book",
+      "model": "5"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Samsung",
+      "series": "Galaxy Book Pro",
+      "model": "13"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Samsung",
+      "series": "Galaxy Book Pro",
+      "model": "14"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Samsung",
+      "series": "Galaxy Book Pro",
+      "model": "15"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Samsung",
+      "series": "Galaxy Book Pro",
+      "model": "360"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Apple",
+      "series": "iPad",
+      "model": "6th Gen"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Apple",
+      "series": "iPad",
+      "model": "7th Gen"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Apple",
+      "series": "iPad",
+      "model": "8th Gen"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Apple",
+      "series": "iPad",
+      "model": "9th Gen"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Apple",
+      "series": "iPad",
+      "model": "10th Gen"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Apple",
+      "series": "iPad",
+      "model": "11th Gen"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Apple",
+      "series": "iPad Air",
+      "model": "3rd Gen"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Apple",
+      "series": "iPad Air",
+      "model": "4th Gen"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Apple",
+      "series": "iPad Air",
+      "model": "5th Gen"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Apple",
+      "series": "iPad Air",
+      "model": "6th Gen"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Apple",
+      "series": "iPad Air",
+      "model": "7th Gen"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Apple",
+      "series": "iPad Pro",
+      "model": "11-inch 1st Gen"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Apple",
+      "series": "iPad Pro",
+      "model": "11-inch 2nd Gen"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Apple",
+      "series": "iPad Pro",
+      "model": "11-inch 3rd Gen"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Apple",
+      "series": "iPad Pro",
+      "model": "11-inch 4th Gen"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Apple",
+      "series": "iPad Pro",
+      "model": "11-inch M4"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Apple",
+      "series": "iPad Pro",
+      "model": "12.9-inch 3rd Gen"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Apple",
+      "series": "iPad Pro",
+      "model": "12.9-inch 4th Gen"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Apple",
+      "series": "iPad Pro",
+      "model": "12.9-inch 5th Gen"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Apple",
+      "series": "iPad Pro",
+      "model": "12.9-inch 6th Gen"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Apple",
+      "series": "iPad Pro",
+      "model": "13-inch M4"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Apple",
+      "series": "iPad mini",
+      "model": "5th Gen"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Apple",
+      "series": "iPad mini",
+      "model": "6th Gen"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Apple",
+      "series": "iPad mini",
+      "model": "7th Gen"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab A",
+      "model": "8.0"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab A",
+      "model": "10.1"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab A",
+      "model": "A7"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab A",
+      "model": "A8"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab A",
+      "model": "A9"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab S",
+      "model": "S6"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab S",
+      "model": "S7"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab S",
+      "model": "S8"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab S",
+      "model": "S9"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab S",
+      "model": "S10"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab S FE",
+      "model": "S7 FE"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab S FE",
+      "model": "S8 FE"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab S FE",
+      "model": "S9 FE"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab S FE",
+      "model": "S10 FE"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab Active",
+      "model": "2"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab Active",
+      "model": "3"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab Active",
+      "model": "4 Pro"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab Active",
+      "model": "5"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Lenovo",
+      "series": "Tab",
+      "model": "M8"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Lenovo",
+      "series": "Tab",
+      "model": "M9"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Lenovo",
+      "series": "Tab",
+      "model": "M10"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Lenovo",
+      "series": "Tab",
+      "model": "M11"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Lenovo",
+      "series": "Tab P",
+      "model": "11"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Lenovo",
+      "series": "Tab P",
+      "model": "12 Pro"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Lenovo",
+      "series": "Yoga Tab",
+      "model": "11"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Lenovo",
+      "series": "Yoga Tab",
+      "model": "13"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Huawei",
+      "series": "MatePad",
+      "model": "10.4"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Huawei",
+      "series": "MatePad",
+      "model": "11"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Huawei",
+      "series": "MatePad",
+      "model": "11.5"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Huawei",
+      "series": "MatePad",
+      "model": "12.6"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Huawei",
+      "series": "MatePad",
+      "model": "13.2"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Huawei",
+      "series": "MediaPad",
+      "model": "M5"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Huawei",
+      "series": "MediaPad",
+      "model": "M6"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Huawei",
+      "series": "MediaPad",
+      "model": "T5"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Xiaomi",
+      "series": "Pad",
+      "model": "5"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Xiaomi",
+      "series": "Pad",
+      "model": "6"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Xiaomi",
+      "series": "Pad",
+      "model": "7"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Xiaomi",
+      "series": "Redmi Pad",
+      "model": "SE"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Xiaomi",
+      "series": "Redmi Pad",
+      "model": "SE 2"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Xiaomi",
+      "series": "Redmi Pad",
+      "model": "Pro"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Realme",
+      "series": "Pad",
+      "model": "1"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Realme",
+      "series": "Pad",
+      "model": "2"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Realme",
+      "series": "Pad",
+      "model": "Mini"
+    },
+    {
+      "type": "Tablet",
+      "brand": "OPPO",
+      "series": "Pad",
+      "model": "Air"
+    },
+    {
+      "type": "Tablet",
+      "brand": "OPPO",
+      "series": "Pad",
+      "model": "2"
+    },
+    {
+      "type": "Tablet",
+      "brand": "OPPO",
+      "series": "Pad",
+      "model": "3 Pro"
+    },
+    {
+      "type": "Tablet",
+      "brand": "vivo",
+      "series": "Pad",
+      "model": "1"
+    },
+    {
+      "type": "Tablet",
+      "brand": "vivo",
+      "series": "Pad",
+      "model": "2"
+    },
+    {
+      "type": "Tablet",
+      "brand": "vivo",
+      "series": "Pad",
+      "model": "3 Pro"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Honor",
+      "series": "Pad",
+      "model": "8"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Honor",
+      "series": "Pad",
+      "model": "9"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Honor",
+      "series": "Pad",
+      "model": "V9"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Microsoft",
+      "series": "Surface Go",
+      "model": "2"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Microsoft",
+      "series": "Surface Go",
+      "model": "3"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Microsoft",
+      "series": "Surface Go",
+      "model": "4"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Microsoft",
+      "series": "Surface Pro",
+      "model": "7"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Microsoft",
+      "series": "Surface Pro",
+      "model": "8"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Microsoft",
+      "series": "Surface Pro",
+      "model": "9"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Microsoft",
+      "series": "Surface Pro",
+      "model": "10"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Microsoft",
+      "series": "Surface Pro",
+      "model": "11"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Amazon",
+      "series": "Fire Tablet",
+      "model": "7"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Amazon",
+      "series": "Fire Tablet",
+      "model": "8"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Amazon",
+      "series": "Fire Tablet",
+      "model": "10"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Amazon",
+      "series": "Fire Tablet",
+      "model": "11"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Amazon",
+      "series": "Fire Tablet",
+      "model": "HD 10"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Amazon",
+      "series": "Fire Tablet",
+      "model": "Max 11"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Dell",
+      "series": "OptiPlex",
+      "model": "3080"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Dell",
+      "series": "OptiPlex",
+      "model": "3090"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Dell",
+      "series": "OptiPlex",
+      "model": "5000"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Dell",
+      "series": "OptiPlex",
+      "model": "7000"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Dell",
+      "series": "OptiPlex",
+      "model": "7010"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Dell",
+      "series": "Precision",
+      "model": "3640"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Dell",
+      "series": "Precision",
+      "model": "3660"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Dell",
+      "series": "Precision",
+      "model": "5820"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Dell",
+      "series": "Precision",
+      "model": "5860"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Dell",
+      "series": "Inspiron Desktop",
+      "model": "3880"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Dell",
+      "series": "Inspiron Desktop",
+      "model": "3891"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Dell",
+      "series": "Inspiron Desktop",
+      "model": "3910"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Dell",
+      "series": "XPS Desktop",
+      "model": "8940"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Dell",
+      "series": "XPS Desktop",
+      "model": "8950"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Dell",
+      "series": "XPS Desktop",
+      "model": "8960"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "HP",
+      "series": "ProDesk",
+      "model": "400"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "HP",
+      "series": "ProDesk",
+      "model": "600"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "HP",
+      "series": "ProDesk",
+      "model": "800"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "HP",
+      "series": "EliteDesk",
+      "model": "800"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "HP",
+      "series": "EliteDesk",
+      "model": "805"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "HP",
+      "series": "Pavilion Desktop",
+      "model": "TP01"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "HP",
+      "series": "Pavilion Desktop",
+      "model": "TG01"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "HP",
+      "series": "OMEN Desktop",
+      "model": "25L"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "HP",
+      "series": "OMEN Desktop",
+      "model": "30L"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "HP",
+      "series": "OMEN Desktop",
+      "model": "40L"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Lenovo",
+      "series": "ThinkCentre",
+      "model": "M70"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Lenovo",
+      "series": "ThinkCentre",
+      "model": "M80"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Lenovo",
+      "series": "ThinkCentre",
+      "model": "M90"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Lenovo",
+      "series": "ThinkCentre",
+      "model": "M70q"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Lenovo",
+      "series": "ThinkCentre",
+      "model": "M80q"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Lenovo",
+      "series": "ThinkCentre",
+      "model": "M90q"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Lenovo",
+      "series": "IdeaCentre",
+      "model": "3"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Lenovo",
+      "series": "IdeaCentre",
+      "model": "5"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Lenovo",
+      "series": "IdeaCentre",
+      "model": "Gaming 5"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Lenovo",
+      "series": "Legion Tower",
+      "model": "5"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Lenovo",
+      "series": "Legion Tower",
+      "model": "7"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Acer",
+      "series": "Veriton",
+      "model": "X"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Acer",
+      "series": "Veriton",
+      "model": "M"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Acer",
+      "series": "Veriton",
+      "model": "N"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Acer",
+      "series": "Aspire Desktop",
+      "model": "TC"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Acer",
+      "series": "Aspire Desktop",
+      "model": "XC"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Acer",
+      "series": "Predator Orion",
+      "model": "3000"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Acer",
+      "series": "Predator Orion",
+      "model": "5000"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Acer",
+      "series": "Predator Orion",
+      "model": "7000"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "ASUS",
+      "series": "ExpertCenter",
+      "model": "D5"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "ASUS",
+      "series": "ExpertCenter",
+      "model": "D7"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "ASUS",
+      "series": "ExpertCenter",
+      "model": "D9"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "ASUS",
+      "series": "ROG Strix G",
+      "model": "G10"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "ASUS",
+      "series": "ROG Strix G",
+      "model": "G15"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "ASUS",
+      "series": "ROG Strix G",
+      "model": "G16"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "ASUS",
+      "series": "ProArt Station",
+      "model": "PD5"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Apple",
+      "series": "iMac",
+      "model": "21.5-inch"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Apple",
+      "series": "iMac",
+      "model": "24-inch M1"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Apple",
+      "series": "iMac",
+      "model": "24-inch M3"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Apple",
+      "series": "iMac",
+      "model": "24-inch M4"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Apple",
+      "series": "iMac",
+      "model": "27-inch"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Apple",
+      "series": "Mac mini",
+      "model": "2018"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Apple",
+      "series": "Mac mini",
+      "model": "M1"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Apple",
+      "series": "Mac mini",
+      "model": "M2"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Apple",
+      "series": "Mac mini",
+      "model": "M2 Pro"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Apple",
+      "series": "Mac mini",
+      "model": "M4"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Apple",
+      "series": "Mac mini",
+      "model": "M4 Pro"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Apple",
+      "series": "Mac Studio",
+      "model": "M1 Max"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Apple",
+      "series": "Mac Studio",
+      "model": "M1 Ultra"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Apple",
+      "series": "Mac Studio",
+      "model": "M2 Max"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Apple",
+      "series": "Mac Studio",
+      "model": "M2 Ultra"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Apple",
+      "series": "Mac Studio",
+      "model": "M4 Max"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "MSI",
+      "series": "Aegis",
+      "model": "RS"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "MSI",
+      "series": "Aegis",
+      "model": "R"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "MSI",
+      "series": "Aegis",
+      "model": "SE"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "MSI",
+      "series": "Infinite",
+      "model": "S"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "MSI",
+      "series": "Infinite",
+      "model": "RS"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "MSI",
+      "series": "MEG Trident",
+      "model": "X"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "MSI",
+      "series": "MEG Trident",
+      "model": "AS"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Intel",
+      "series": "NUC",
+      "model": "8"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Intel",
+      "series": "NUC",
+      "model": "10"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Intel",
+      "series": "NUC",
+      "model": "11"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Intel",
+      "series": "NUC",
+      "model": "12"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Intel",
+      "series": "NUC",
+      "model": "13"
+    },
+    {
+      "type": "Game Console",
+      "brand": "Sony",
+      "series": "PlayStation",
+      "model": "4"
+    },
+    {
+      "type": "Game Console",
+      "brand": "Sony",
+      "series": "PlayStation",
+      "model": "4 Pro"
+    },
+    {
+      "type": "Game Console",
+      "brand": "Sony",
+      "series": "PlayStation",
+      "model": "5"
+    },
+    {
+      "type": "Game Console",
+      "brand": "Sony",
+      "series": "PlayStation",
+      "model": "5 Slim"
+    },
+    {
+      "type": "Game Console",
+      "brand": "Microsoft",
+      "series": "Xbox",
+      "model": "One"
+    },
+    {
+      "type": "Game Console",
+      "brand": "Microsoft",
+      "series": "Xbox",
+      "model": "One S"
+    },
+    {
+      "type": "Game Console",
+      "brand": "Microsoft",
+      "series": "Xbox",
+      "model": "One X"
+    },
+    {
+      "type": "Game Console",
+      "brand": "Microsoft",
+      "series": "Xbox",
+      "model": "Series S"
+    },
+    {
+      "type": "Game Console",
+      "brand": "Microsoft",
+      "series": "Xbox",
+      "model": "Series X"
+    },
+    {
+      "type": "Game Console",
+      "brand": "Nintendo",
+      "series": "Switch",
+      "model": "Lite"
+    },
+    {
+      "type": "Game Console",
+      "brand": "Nintendo",
+      "series": "Switch",
+      "model": "OLED"
+    },
+    {
+      "type": "Game Console",
+      "brand": "Nintendo",
+      "series": "Switch",
+      "model": "Standard"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Apple",
+      "series": "Watch",
+      "model": "Series 4"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Apple",
+      "series": "Watch",
+      "model": "Series 5"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Apple",
+      "series": "Watch",
+      "model": "Series 6"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Apple",
+      "series": "Watch",
+      "model": "Series 7"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Apple",
+      "series": "Watch",
+      "model": "Series 8"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Apple",
+      "series": "Watch",
+      "model": "Series 9"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Apple",
+      "series": "Watch",
+      "model": "Series 10"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Apple",
+      "series": "Watch",
+      "model": "Ultra"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Apple",
+      "series": "Watch",
+      "model": "Ultra 2"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Samsung",
+      "series": "Galaxy Watch",
+      "model": "4"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Samsung",
+      "series": "Galaxy Watch",
+      "model": "5"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Samsung",
+      "series": "Galaxy Watch",
+      "model": "6"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Samsung",
+      "series": "Galaxy Watch",
+      "model": "7"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Samsung",
+      "series": "Galaxy Watch",
+      "model": "Ultra"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Huawei",
+      "series": "Watch",
+      "model": "GT 3"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Huawei",
+      "series": "Watch",
+      "model": "GT 4"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Huawei",
+      "series": "Watch",
+      "model": "GT 5"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Apple",
+      "series": "iPhone",
+      "model": "18"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Apple",
+      "series": "iPhone",
+      "model": "18 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Apple",
+      "series": "iPhone",
+      "model": "18 Pro Max"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Apple",
+      "series": "iPhone",
+      "model": "17e"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy S",
+      "model": "26"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy S",
+      "model": "26+"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy S",
+      "model": "26 Ultra"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy S",
+      "model": "25 FE"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy S",
+      "model": "24 FE"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy A",
+      "model": "17"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy A",
+      "model": "17 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy A",
+      "model": "27 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy A",
+      "model": "37 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy A",
+      "model": "57 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy A",
+      "model": "16"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy A",
+      "model": "16 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy A",
+      "model": "16+"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy A",
+      "model": "16 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy A",
+      "model": "36 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy A",
+      "model": "56 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy Z",
+      "model": "Fold8"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy Z",
+      "model": "Fold8 Ultra"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy Z",
+      "model": "Flip8"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy Z",
+      "model": "Flip7"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy M",
+      "model": "16"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy M",
+      "model": "16 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy M",
+      "model": "15"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy M",
+      "model": "15 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy M",
+      "model": "35 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Samsung",
+      "series": "Galaxy M",
+      "model": "55 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Xiaomi",
+      "series": "Xiaomi",
+      "model": "15T"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Xiaomi",
+      "series": "Xiaomi",
+      "model": "15T Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Xiaomi",
+      "series": "Xiaomi",
+      "model": "15 Ultra"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Xiaomi",
+      "series": "Xiaomi",
+      "model": "14 Ultra"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Xiaomi",
+      "series": "Xiaomi",
+      "model": "13 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Xiaomi",
+      "series": "MIX",
+      "model": "Flip"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Xiaomi",
+      "series": "MIX",
+      "model": "Fold 4"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi",
+      "model": "17"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi",
+      "model": "17 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi",
+      "model": "17C 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi",
+      "model": "17 4G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi",
+      "model": "15"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi",
+      "model": "15 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi",
+      "model": "15C"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi",
+      "model": "15C 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi",
+      "model": "13x"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi",
+      "model": "A7"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi",
+      "model": "A7 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi",
+      "model": "A5"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi Note",
+      "model": "17"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi Note",
+      "model": "17 4G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi Note",
+      "model": "17 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi Note",
+      "model": "17 Pro 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi Note",
+      "model": "17 Pro Max 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi Note",
+      "model": "15"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi Note",
+      "model": "15 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi Note",
+      "model": "15 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi Note",
+      "model": "15 Pro 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi Note",
+      "model": "15 Pro+ 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi Note",
+      "model": "14 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi Note",
+      "model": "14 Pro 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi Note",
+      "model": "14 Pro+ 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi Note",
+      "model": "14S"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi Note",
+      "model": "13 Pro+"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Redmi",
+      "series": "Redmi Note",
+      "model": "12 Pro+"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "POCO",
+      "series": "F",
+      "model": "9 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "POCO",
+      "series": "F",
+      "model": "9"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "POCO",
+      "series": "F",
+      "model": "8 Ultra"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "POCO",
+      "series": "F",
+      "model": "8 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "POCO",
+      "series": "F",
+      "model": "7 Ultra"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "POCO",
+      "series": "F",
+      "model": "7 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "POCO",
+      "series": "F",
+      "model": "7"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "POCO",
+      "series": "F",
+      "model": "6 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "POCO",
+      "series": "F",
+      "model": "6"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "POCO",
+      "series": "F",
+      "model": "5 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "POCO",
+      "series": "F",
+      "model": "5"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "POCO",
+      "series": "X",
+      "model": "8 Pro Max"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "POCO",
+      "series": "X",
+      "model": "8 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "POCO",
+      "series": "X",
+      "model": "8"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "POCO",
+      "series": "X",
+      "model": "7 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "POCO",
+      "series": "X",
+      "model": "7"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "POCO",
+      "series": "X",
+      "model": "6 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "POCO",
+      "series": "X",
+      "model": "6"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "POCO",
+      "series": "X",
+      "model": "5 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "POCO",
+      "series": "X",
+      "model": "5"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "POCO",
+      "series": "X",
+      "model": "4 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "POCO",
+      "series": "M",
+      "model": "8 Pro 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "POCO",
+      "series": "M",
+      "model": "8 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "POCO",
+      "series": "M",
+      "model": "7 Pro 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "POCO",
+      "series": "M",
+      "model": "7"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "POCO",
+      "series": "M",
+      "model": "6 Pro 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "POCO",
+      "series": "M",
+      "model": "6"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "POCO",
+      "series": "M",
+      "model": "5"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "POCO",
+      "series": "M",
+      "model": "4 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Find X",
+      "model": "9s"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Find X",
+      "model": "9 Ultra"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Find X",
+      "model": "9"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Find X",
+      "model": "8"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Find X",
+      "model": "8T"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Find N",
+      "model": "6"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Find N",
+      "model": "5"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Find N",
+      "model": "3"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Find N",
+      "model": "3 Flip"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Find N",
+      "model": "2 Flip"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Reno",
+      "model": "16 Pro 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Reno",
+      "model": "16 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Reno",
+      "model": "16 F 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Reno",
+      "model": "15 Pro 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Reno",
+      "model": "15 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Reno",
+      "model": "15 F 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Reno",
+      "model": "14 Pro 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Reno",
+      "model": "14 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Reno",
+      "model": "13 Pro+ 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Reno",
+      "model": "13 Pro 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Reno",
+      "model": "13 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Reno",
+      "model": "12 Pro+ 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Reno",
+      "model": "12 Pro 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Reno",
+      "model": "12 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Reno",
+      "model": "11 Pro+ 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Reno",
+      "model": "11 Pro 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Reno",
+      "model": "11 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Reno",
+      "model": "10 Pro+ 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Reno",
+      "model": "10 Pro 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "Reno",
+      "model": "10 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "A",
+      "model": "6c"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "A",
+      "model": "6s 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "A",
+      "model": "6"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "A",
+      "model": "6t Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "A",
+      "model": "6t"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "A",
+      "model": "6x 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "A",
+      "model": "6x"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "A",
+      "model": "6 Pro 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "A",
+      "model": "6 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "A",
+      "model": "5 Pro 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "A",
+      "model": "5 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "A",
+      "model": "5 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OPPO",
+      "series": "A",
+      "model": "3 Pro 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "X",
+      "model": "300 Ultra"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "X",
+      "model": "300 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "X",
+      "model": "300"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "X",
+      "model": "300 FE"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "X",
+      "model": "200 FE"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "X",
+      "model": "200 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "X",
+      "model": "200"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "X",
+      "model": "100 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "X",
+      "model": "80 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "X",
+      "model": "70 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "X",
+      "model": "60 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "X",
+      "model": "50 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "X",
+      "model": "50e"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "V",
+      "model": "70"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "V",
+      "model": "70 FE"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "V",
+      "model": "60 Lite 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "V",
+      "model": "60 Lite"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "V",
+      "model": "50 Lite 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "V",
+      "model": "50 Lite"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "V",
+      "model": "40 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "V",
+      "model": "40 Lite 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "V",
+      "model": "40 Lite"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "V",
+      "model": "30 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "V",
+      "model": "30e"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "V",
+      "model": "29e 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "V",
+      "model": "27e"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "V",
+      "model": "25e"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "V",
+      "model": "23 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "V",
+      "model": "23e 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "V",
+      "model": "21 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "Y",
+      "model": "31d"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "Y",
+      "model": "31"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "Y",
+      "model": "29"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "Y",
+      "model": "28s 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "Y",
+      "model": "27 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "Y",
+      "model": "21d"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "Y",
+      "model": "19s"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "Y",
+      "model": "18"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "Y",
+      "model": "17s"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "Y",
+      "model": "03t"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "Y",
+      "model": "03"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "Y",
+      "model": "02t"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "Y",
+      "model": "02s"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "vivo",
+      "series": "Y",
+      "model": "02"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "16",
+      "model": "16 Pro+ 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "16",
+      "model": "16 Pro 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "16",
+      "model": "16 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "15",
+      "model": "15 Pro 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "15",
+      "model": "15 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "15",
+      "model": "15T 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "15",
+      "model": "15x 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "14",
+      "model": "14 Pro+ 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "14",
+      "model": "14 Pro 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "14",
+      "model": "14 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "14",
+      "model": "14 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "14",
+      "model": "14T 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "14",
+      "model": "14x 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "13",
+      "model": "13 Pro+ 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "13",
+      "model": "13 Pro 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "13",
+      "model": "13 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "13",
+      "model": "13+ 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "13",
+      "model": "13 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "13",
+      "model": "13 4G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "GT",
+      "model": "8 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "GT",
+      "model": "8"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "GT",
+      "model": "7 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "GT",
+      "model": "7T"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "GT",
+      "model": "6T"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "C",
+      "model": "100 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "C",
+      "model": "100"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "C",
+      "model": "100i"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "C",
+      "model": "100x"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "C",
+      "model": "85 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "C",
+      "model": "85 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "C",
+      "model": "85"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "C",
+      "model": "75x"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "C",
+      "model": "75 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "C",
+      "model": "75"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "C",
+      "model": "73 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "C",
+      "model": "71"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "C",
+      "model": "71 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "C",
+      "model": "65"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "C",
+      "model": "63"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "C",
+      "model": "61"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "C",
+      "model": "60"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "C",
+      "model": "53"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "C",
+      "model": "51"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "Note",
+      "model": "80"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "Note",
+      "model": "70"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "Note",
+      "model": "60x"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "Note",
+      "model": "60"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "Note",
+      "model": "50"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "P",
+      "model": "4 Power 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "P",
+      "model": "4 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "P",
+      "model": "4x"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "P",
+      "model": "4"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "P",
+      "model": "3 Pro 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "P",
+      "model": "3 Ultra 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "P",
+      "model": "3 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "realme",
+      "series": "P",
+      "model": "3 Lite"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "Magic",
+      "model": "8 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "Magic",
+      "model": "8"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "Magic",
+      "model": "V6"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "Magic",
+      "model": "V5"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "Magic",
+      "model": "V Flip2"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "X",
+      "model": "9c"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "X",
+      "model": "8c"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "X",
+      "model": "7c"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "X",
+      "model": "7d"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "X",
+      "model": "6b"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "X",
+      "model": "6c"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "X",
+      "model": "5b"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "X",
+      "model": "5c"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "X",
+      "model": "4b"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "X",
+      "model": "4c"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "600",
+      "model": "600 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "600",
+      "model": "600"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "600",
+      "model": "400 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "600",
+      "model": "400"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "600",
+      "model": "200 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "600",
+      "model": "200"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "N",
+      "model": "N7"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "HONOR",
+      "series": "N",
+      "model": "N8"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "NOTE",
+      "model": "60 Ultra"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "NOTE",
+      "model": "60 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "NOTE",
+      "model": "60"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "NOTE",
+      "model": "Edge"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "NOTE",
+      "model": "50 Pro+ 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "NOTE",
+      "model": "50 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "NOTE",
+      "model": "50S 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "NOTE",
+      "model": "40 Pro+"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "NOTE",
+      "model": "40 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "NOTE",
+      "model": "30 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "NOTE",
+      "model": "30 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "HOT",
+      "model": "70 Pro 5G+"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "HOT",
+      "model": "70"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "HOT",
+      "model": "60 Pro+"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "HOT",
+      "model": "60 Pro+ FREE FIRE"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "HOT",
+      "model": "60 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "HOT",
+      "model": "60 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "HOT",
+      "model": "60i 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "HOT",
+      "model": "60i"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "HOT",
+      "model": "50 Pro+"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "HOT",
+      "model": "40 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "HOT",
+      "model": "40i"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "HOT",
+      "model": "30i"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "HOT",
+      "model": "20i"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "GT",
+      "model": "50 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "GT",
+      "model": "30 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "GT",
+      "model": "30"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "GT",
+      "model": "20 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "GT",
+      "model": "20"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "ZERO",
+      "model": "40 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "ZERO",
+      "model": "30 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "ZERO",
+      "model": "Flip 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "SMART",
+      "model": "20 Plus"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "SMART",
+      "model": "20"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "SMART",
+      "model": "10 Plus"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Infinix",
+      "series": "SMART",
+      "model": "10"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "CAMON",
+      "model": "40 Pro 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "CAMON",
+      "model": "40 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "CAMON",
+      "model": "30 Pro 5G"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "CAMON",
+      "model": "30 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "CAMON",
+      "model": "20 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "SPARK",
+      "model": "40 Pro+"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "SPARK",
+      "model": "40 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "SPARK",
+      "model": "30 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "SPARK",
+      "model": "20 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "SPARK",
+      "model": "10 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "POVA",
+      "model": "7 Ultra"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "POVA",
+      "model": "7 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "POVA",
+      "model": "6 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "POVA",
+      "model": "5 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "POVA",
+      "model": "4 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "PHANTOM",
+      "model": "V Fold2"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "PHANTOM",
+      "model": "V Flip2"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "PHANTOM",
+      "model": "V Fold"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "TECNO",
+      "series": "PHANTOM",
+      "model": "V Flip"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Edge",
+      "model": "70"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Edge",
+      "model": "60 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Edge",
+      "model": "60 Fusion"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Edge",
+      "model": "50 Ultra"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Edge",
+      "model": "50 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Edge",
+      "model": "50 Fusion"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Edge",
+      "model": "40 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Edge",
+      "model": "40 Neo"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Edge",
+      "model": "30 Ultra"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Edge",
+      "model": "30 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Razr",
+      "model": "60 Ultra"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Razr",
+      "model": "50 Ultra"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Razr",
+      "model": "40 Ultra"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Moto G",
+      "model": "Power 2026"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Moto G",
+      "model": "Stylus 2025"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Moto G",
+      "model": "Play 2025"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Moto G",
+      "model": "85"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Moto G",
+      "model": "55"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Moto G",
+      "model": "45"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Motorola",
+      "series": "Moto G",
+      "model": "35"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "P",
+      "model": "ura 80"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "P",
+      "model": "70 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "P",
+      "model": "60 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "P",
+      "model": "50 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "P",
+      "model": "40 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "P",
+      "model": "30 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "Mate",
+      "model": "80 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "Mate",
+      "model": "70 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "Mate",
+      "model": "70"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "Mate",
+      "model": "60 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "Mate",
+      "model": "50 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "Mate",
+      "model": "40 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "Mate",
+      "model": "30 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "Nova",
+      "model": "14 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "Nova",
+      "model": "14"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "Nova",
+      "model": "13 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "Nova",
+      "model": "12 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "Nova",
+      "model": "11 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Huawei",
+      "series": "Nova",
+      "model": "10 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OnePlus",
+      "series": "OnePlus",
+      "model": "15"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OnePlus",
+      "series": "OnePlus",
+      "model": "15R"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OnePlus",
+      "series": "OnePlus",
+      "model": "13"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OnePlus",
+      "series": "OnePlus",
+      "model": "13R"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OnePlus",
+      "series": "OnePlus",
+      "model": "12"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OnePlus",
+      "series": "OnePlus",
+      "model": "12R"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OnePlus",
+      "series": "OnePlus",
+      "model": "11"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OnePlus",
+      "series": "OnePlus",
+      "model": "10 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OnePlus",
+      "series": "OnePlus",
+      "model": "Nord 5"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OnePlus",
+      "series": "OnePlus",
+      "model": "Nord 4"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OnePlus",
+      "series": "OnePlus",
+      "model": "Nord CE5"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "OnePlus",
+      "series": "OnePlus",
+      "model": "Nord CE4"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Google",
+      "series": "Pixel",
+      "model": "10 Pro XL"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Google",
+      "series": "Pixel",
+      "model": "10 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Google",
+      "series": "Pixel",
+      "model": "10"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Google",
+      "series": "Pixel",
+      "model": "9 Pro XL"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Google",
+      "series": "Pixel",
+      "model": "9 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Google",
+      "series": "Pixel",
+      "model": "9"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Google",
+      "series": "Pixel",
+      "model": "8 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Google",
+      "series": "Pixel",
+      "model": "8a"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Google",
+      "series": "Pixel",
+      "model": "8"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Google",
+      "series": "Pixel",
+      "model": "7 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Google",
+      "series": "Pixel",
+      "model": "7a"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Google",
+      "series": "Pixel",
+      "model": "7"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Google",
+      "series": "Pixel",
+      "model": "6 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Google",
+      "series": "Pixel",
+      "model": "6a"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Nothing",
+      "series": "Phone",
+      "model": "(3)"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Nothing",
+      "series": "Phone",
+      "model": "(3a) Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Nothing",
+      "series": "Phone",
+      "model": "(3a)"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Nothing",
+      "series": "Phone",
+      "model": "(2a) Plus"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Nothing",
+      "series": "Phone",
+      "model": "(2a)"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Nothing",
+      "series": "Phone",
+      "model": "(2)"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Nothing",
+      "series": "Phone",
+      "model": "(1)"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "ASUS",
+      "series": "ROG Phone",
+      "model": "9 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "ASUS",
+      "series": "ROG Phone",
+      "model": "9"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "ASUS",
+      "series": "ROG Phone",
+      "model": "8 Pro"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "ASUS",
+      "series": "ROG Phone",
+      "model": "8"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "ASUS",
+      "series": "ROG Phone",
+      "model": "7 Ultimate"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "ASUS",
+      "series": "ROG Phone",
+      "model": "7"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Sony",
+      "series": "Xperia",
+      "model": "1 VII"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Sony",
+      "series": "Xperia",
+      "model": "10 VII"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Sony",
+      "series": "Xperia",
+      "model": "1 VI"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Sony",
+      "series": "Xperia",
+      "model": "10 VI"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Sony",
+      "series": "Xperia",
+      "model": "5 V"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Sony",
+      "series": "Xperia",
+      "model": "1 V"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Sony",
+      "series": "Xperia",
+      "model": "10 V"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Sony",
+      "series": "Xperia",
+      "model": "5 IV"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Sony",
+      "series": "Xperia",
+      "model": "1 IV"
+    },
+    {
+      "type": "Cellphone",
+      "brand": "Sony",
+      "series": "Xperia",
+      "model": "10 IV"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "ThinkPad",
+      "model": "T16 Gen 3"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "ThinkPad",
+      "model": "T14 Gen 5"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "ThinkPad",
+      "model": "T14s Gen 6"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "ThinkPad",
+      "model": "E14 Gen 6"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "ThinkPad",
+      "model": "E16 Gen 2"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "ThinkPad",
+      "model": "L14 Gen 5"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "ThinkPad",
+      "model": "L16 Gen 1"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "ThinkPad",
+      "model": "X1 Carbon Gen 12"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "ThinkPad",
+      "model": "X1 Carbon Gen 13"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "ThinkPad",
+      "model": "X1 Yoga Gen 9"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "ThinkPad",
+      "model": "P14s Gen 5"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "ThinkPad",
+      "model": "P16s Gen 3"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "IdeaPad",
+      "model": "Slim 3 14"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "IdeaPad",
+      "model": "Slim 3 15"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "IdeaPad",
+      "model": "Slim 5 14"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "IdeaPad",
+      "model": "Slim 5 16"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "IdeaPad",
+      "model": "Pro 5 14"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "IdeaPad",
+      "model": "Pro 5 16"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "IdeaPad",
+      "model": "Flex 5"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "IdeaPad",
+      "model": "Duet 5"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "Legion",
+      "model": "5i Gen 9"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "Legion",
+      "model": "5i Gen 10"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "Legion",
+      "model": "7i Gen 9"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "Legion",
+      "model": "7i Gen 10"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "Legion",
+      "model": "Pro 5i Gen 9"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "Legion",
+      "model": "Pro 5i Gen 10"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "Legion",
+      "model": "Slim 5 16"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "Legion",
+      "model": "Slim 5 14"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "LOQ",
+      "model": "15IRX9"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "LOQ",
+      "model": "15AHP9"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "LOQ",
+      "model": "15IRX10"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "LOQ",
+      "model": "16IRX9"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Lenovo",
+      "series": "LOQ",
+      "model": "16IRX10"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "Pavilion",
+      "model": "14 2025"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "Pavilion",
+      "model": "15 2025"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "Pavilion",
+      "model": "x360 14"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "ProBook",
+      "model": "440 G11"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "ProBook",
+      "model": "450 G11"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "ProBook",
+      "model": "460 G11"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "ProBook",
+      "model": "640 G11"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "ProBook",
+      "model": "660 G11"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "EliteBook",
+      "model": "840 G11"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "EliteBook",
+      "model": "860 G11"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "EliteBook",
+      "model": "1040 G11"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "EliteBook",
+      "model": "X360 1040 G11"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "Victus",
+      "model": "15 2025"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "Victus",
+      "model": "16 2025"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "Victus",
+      "model": "15-fa"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "Victus",
+      "model": "16-s"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "OMEN",
+      "model": "16 2025"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "OMEN",
+      "model": "17 2025"
+    },
+    {
+      "type": "Laptop",
+      "brand": "HP",
+      "series": "OMEN",
+      "model": "16-x"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "Latitude",
+      "model": "5450"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "Latitude",
+      "model": "5550"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "Latitude",
+      "model": "7450"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "Latitude",
+      "model": "7650"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "Latitude",
+      "model": "3440"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "Latitude",
+      "model": "3540"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "Inspiron",
+      "model": "14 5430"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "Inspiron",
+      "model": "14 5440"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "Inspiron",
+      "model": "15 3530"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "Inspiron",
+      "model": "15 5540"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "Inspiron",
+      "model": "16 5640"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "XPS",
+      "model": "13 9340"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "XPS",
+      "model": "14 9440"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "XPS",
+      "model": "16 9640"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "G Series",
+      "model": "15 5530"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Dell",
+      "series": "G Series",
+      "model": "16 7630"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "ROG Strix",
+      "model": "G16 2025"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "ROG Strix",
+      "model": "G18 2025"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "ROG Strix",
+      "model": "Scar 16 2025"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "ROG Strix",
+      "model": "Scar 18 2025"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "TUF Gaming",
+      "model": "A15 2025"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "TUF Gaming",
+      "model": "A16 2025"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "TUF Gaming",
+      "model": "F16 2025"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "TUF Gaming",
+      "model": "F17 2025"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "VivoBook",
+      "model": "14 2025"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "VivoBook",
+      "model": "15 2025"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "VivoBook",
+      "model": "16 2025"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "ZenBook",
+      "model": "14 OLED"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "ZenBook",
+      "model": "16 OLED"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "ZenBook",
+      "model": "S14"
+    },
+    {
+      "type": "Laptop",
+      "brand": "ASUS",
+      "series": "ZenBook",
+      "model": "S16"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Acer",
+      "series": "Aspire",
+      "model": "3 2025"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Acer",
+      "series": "Aspire",
+      "model": "5 2025"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Acer",
+      "series": "Aspire",
+      "model": "Go 14"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Acer",
+      "series": "Aspire",
+      "model": "Go 15"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Acer",
+      "series": "Swift",
+      "model": "Go 14 2025"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Acer",
+      "series": "Swift",
+      "model": "Go 16 2025"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Acer",
+      "series": "Swift",
+      "model": "X 14"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Acer",
+      "series": "Swift",
+      "model": "X 16"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Acer",
+      "series": "Nitro",
+      "model": "V 15"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Acer",
+      "series": "Nitro",
+      "model": "V 16"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Acer",
+      "series": "Nitro",
+      "model": "16 2025"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Acer",
+      "series": "Nitro",
+      "model": "17 2025"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Acer",
+      "series": "Predator",
+      "model": "Helios Neo 16"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Acer",
+      "series": "Predator",
+      "model": "Triton Neo 16"
+    },
+    {
+      "type": "Laptop",
+      "brand": "MSI",
+      "series": "Katana",
+      "model": "15 HX"
+    },
+    {
+      "type": "Laptop",
+      "brand": "MSI",
+      "series": "Katana",
+      "model": "17 HX"
+    },
+    {
+      "type": "Laptop",
+      "brand": "MSI",
+      "series": "Katana",
+      "model": "A15"
+    },
+    {
+      "type": "Laptop",
+      "brand": "MSI",
+      "series": "Cyborg",
+      "model": "15 2025"
+    },
+    {
+      "type": "Laptop",
+      "brand": "MSI",
+      "series": "Cyborg",
+      "model": "16"
+    },
+    {
+      "type": "Laptop",
+      "brand": "MSI",
+      "series": "Raider",
+      "model": "18 HX"
+    },
+    {
+      "type": "Laptop",
+      "brand": "MSI",
+      "series": "Raider",
+      "model": "16 HX"
+    },
+    {
+      "type": "Laptop",
+      "brand": "MSI",
+      "series": "Stealth",
+      "model": "16 AI"
+    },
+    {
+      "type": "Laptop",
+      "brand": "MSI",
+      "series": "Stealth",
+      "model": "18 AI"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Apple",
+      "series": "MacBook Air",
+      "model": "13-inch M4"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Apple",
+      "series": "MacBook Air",
+      "model": "15-inch M4"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Apple",
+      "series": "MacBook Air",
+      "model": "13-inch M3"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Apple",
+      "series": "MacBook Pro",
+      "model": "14-inch M4 Pro"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Apple",
+      "series": "MacBook Pro",
+      "model": "14-inch M4 Max"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Apple",
+      "series": "MacBook Pro",
+      "model": "16-inch M4 Max"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Samsung",
+      "series": "Galaxy Book",
+      "model": "5 Pro"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Samsung",
+      "series": "Galaxy Book",
+      "model": "5 Pro 360"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Samsung",
+      "series": "Galaxy Book",
+      "model": "5 Ultra"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Samsung",
+      "series": "Galaxy Book",
+      "model": "4 Edge"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Samsung",
+      "series": "Galaxy Book",
+      "model": "4 Pro"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Microsoft",
+      "series": "Surface",
+      "model": "Laptop 7"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Microsoft",
+      "series": "Surface",
+      "model": "Laptop 8"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Microsoft",
+      "series": "Surface",
+      "model": "Pro 11"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Microsoft",
+      "series": "Surface",
+      "model": "Pro 12"
+    },
+    {
+      "type": "Laptop",
+      "brand": "Microsoft",
+      "series": "Surface",
+      "model": "Laptop Go 3"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Apple",
+      "series": "iPad Air",
+      "model": "11-inch M3"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Apple",
+      "series": "iPad Air",
+      "model": "13-inch M3"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Apple",
+      "series": "iPad Air",
+      "model": "11-inch M2"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Apple",
+      "series": "iPad Air",
+      "model": "13-inch M2"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Apple",
+      "series": "iPad Pro",
+      "model": "11-inch M5"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Apple",
+      "series": "iPad Pro",
+      "model": "13-inch M5"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Apple",
+      "series": "iPad mini",
+      "model": "A17 Pro"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab S",
+      "model": "11"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab S",
+      "model": "10 Ultra"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab S",
+      "model": "10+"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab S",
+      "model": "10 FE"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab S",
+      "model": "10 FE+"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab S",
+      "model": "9 Ultra"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab S",
+      "model": "9+"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab S",
+      "model": "9"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab S",
+      "model": "8 Ultra"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab S",
+      "model": "8+"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab S",
+      "model": "8"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab A",
+      "model": "11"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab A",
+      "model": "10.5"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab A",
+      "model": "9+"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab A",
+      "model": "9"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab A",
+      "model": "8"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Samsung",
+      "series": "Galaxy Tab Active",
+      "model": "5 Pro"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Xiaomi",
+      "series": "Xiaomi Pad",
+      "model": "8 Pro"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Xiaomi",
+      "series": "Xiaomi Pad",
+      "model": "8"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Xiaomi",
+      "series": "Xiaomi Pad",
+      "model": "7 Ultra"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Xiaomi",
+      "series": "Xiaomi Pad",
+      "model": "7 Pro"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Xiaomi",
+      "series": "Xiaomi Pad",
+      "model": "7"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Xiaomi",
+      "series": "Xiaomi Pad",
+      "model": "6S Pro"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Xiaomi",
+      "series": "Xiaomi Pad",
+      "model": "6"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Xiaomi",
+      "series": "Xiaomi Pad",
+      "model": "5"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Xiaomi",
+      "series": "Redmi Pad",
+      "model": "2 Pro 5G"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Xiaomi",
+      "series": "Redmi Pad",
+      "model": "2 Pro"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Xiaomi",
+      "series": "Redmi Pad",
+      "model": "2"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Lenovo",
+      "series": "Tab",
+      "model": "P12"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Lenovo",
+      "series": "Tab",
+      "model": "P11 Gen 2"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Lenovo",
+      "series": "Tab",
+      "model": "M10 5G"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Lenovo",
+      "series": "Tab",
+      "model": "M8 4th Gen"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Lenovo",
+      "series": "Legion Tab",
+      "model": "3"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Lenovo",
+      "series": "Legion Tab",
+      "model": "2 Pro"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Huawei",
+      "series": "MatePad",
+      "model": "Pro 13.2 2025"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Huawei",
+      "series": "MatePad",
+      "model": "Pro 12 X"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Huawei",
+      "series": "MatePad",
+      "model": "12 X"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Huawei",
+      "series": "MatePad",
+      "model": "11.5 S"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Huawei",
+      "series": "MatePad",
+      "model": "11.5 PaperMatte"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Microsoft",
+      "series": "Surface",
+      "model": "Pro 12"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Microsoft",
+      "series": "Surface",
+      "model": "Pro 11"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Microsoft",
+      "series": "Surface",
+      "model": "Go 4"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Microsoft",
+      "series": "Surface",
+      "model": "Go 3"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Amazon",
+      "series": "Fire",
+      "model": "Max 11"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Amazon",
+      "series": "Fire",
+      "model": "HD 10"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Amazon",
+      "series": "Fire",
+      "model": "HD 10 Plus"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Amazon",
+      "series": "Fire",
+      "model": "HD 8"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Amazon",
+      "series": "Fire",
+      "model": "HD 8 Plus"
+    },
+    {
+      "type": "Tablet",
+      "brand": "Amazon",
+      "series": "Fire",
+      "model": "7"
+    },
+    {
+      "type": "Tablet",
+      "brand": "realme",
+      "series": "Pad",
+      "model": "3 5G"
+    },
+    {
+      "type": "Tablet",
+      "brand": "realme",
+      "series": "Pad",
+      "model": "2 Lite"
+    },
+    {
+      "type": "Tablet",
+      "brand": "HONOR",
+      "series": "Pad",
+      "model": "X9a"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Dell",
+      "series": "OptiPlex",
+      "model": "7020"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Dell",
+      "series": "OptiPlex",
+      "model": "3000"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Dell",
+      "series": "OptiPlex",
+      "model": "7090"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Dell",
+      "series": "OptiPlex",
+      "model": "7080"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Dell",
+      "series": "Precision",
+      "model": "3680"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "HP",
+      "series": "ProDesk",
+      "model": "400 G9"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "HP",
+      "series": "ProDesk",
+      "model": "600 G9"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "HP",
+      "series": "ProDesk",
+      "model": "800 G9"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "HP",
+      "series": "ProDesk",
+      "model": "400 G8"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "HP",
+      "series": "EliteDesk",
+      "model": "800 G9"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "HP",
+      "series": "EliteDesk",
+      "model": "805 G9"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "HP",
+      "series": "EliteDesk",
+      "model": "800 G8"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Lenovo",
+      "series": "ThinkCentre",
+      "model": "M70q Gen 5"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Lenovo",
+      "series": "ThinkCentre",
+      "model": "M75q Gen 5"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Lenovo",
+      "series": "ThinkCentre",
+      "model": "M80q Gen 5"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Lenovo",
+      "series": "ThinkCentre",
+      "model": "M90q Gen 5"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Lenovo",
+      "series": "ThinkCentre",
+      "model": "M70s Gen 5"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Lenovo",
+      "series": "ThinkCentre",
+      "model": "M90s Gen 5"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Lenovo",
+      "series": "IdeaCentre",
+      "model": "AIO 3"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Lenovo",
+      "series": "IdeaCentre",
+      "model": "AIO 5"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Lenovo",
+      "series": "Legion Tower",
+      "model": "5i Gen 9"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Lenovo",
+      "series": "Legion Tower",
+      "model": "7i Gen 9"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "ASUS",
+      "series": "ExpertCenter",
+      "model": "PN64"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "ASUS",
+      "series": "ExpertCenter",
+      "model": "PN65"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "ASUS",
+      "series": "ROG",
+      "model": "G22"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "ASUS",
+      "series": "ROG",
+      "model": "G16CHR"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "ASUS",
+      "series": "ROG",
+      "model": "Strix G35"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Acer",
+      "series": "Veriton",
+      "model": "S"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Apple",
+      "series": "Mac Studio",
+      "model": "M3 Ultra"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "MSI",
+      "series": "MEG Trident",
+      "model": "X2"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Gigabyte",
+      "series": "AORUS",
+      "model": "Model S"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "Gigabyte",
+      "series": "AORUS",
+      "model": "C300"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "ASRock",
+      "series": "DeskMini",
+      "model": "X600"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "ASRock",
+      "series": "DeskMini",
+      "model": "X300"
+    },
+    {
+      "type": "Computer / Desktop",
+      "brand": "ASRock",
+      "series": "DeskMini",
+      "model": "H470"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Apple",
+      "series": "Watch",
+      "model": "Series 11"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Apple",
+      "series": "Watch",
+      "model": "SE 3"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Apple",
+      "series": "Watch",
+      "model": "SE 2"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Apple",
+      "series": "Watch",
+      "model": "Ultra 3"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Samsung",
+      "series": "Galaxy Watch",
+      "model": "Ultra 2"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Samsung",
+      "series": "Galaxy Watch",
+      "model": "8 Classic"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Samsung",
+      "series": "Galaxy Watch",
+      "model": "8"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Samsung",
+      "series": "Galaxy Watch",
+      "model": "6 Classic"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Samsung",
+      "series": "Galaxy Watch",
+      "model": "5 Pro"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Samsung",
+      "series": "Galaxy Watch",
+      "model": "4 Classic"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Huawei",
+      "series": "Watch",
+      "model": "GT 6 Pro"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Huawei",
+      "series": "Watch",
+      "model": "GT 6"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Huawei",
+      "series": "Watch",
+      "model": "GT 5 Pro"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Huawei",
+      "series": "Watch",
+      "model": "GT 4 Pro"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Huawei",
+      "series": "Watch",
+      "model": "Ultimate 2"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Huawei",
+      "series": "Watch",
+      "model": "Fit 4 Pro"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Huawei",
+      "series": "Watch",
+      "model": "Fit 4"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Xiaomi",
+      "series": "Watch",
+      "model": "S4"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Xiaomi",
+      "series": "Watch",
+      "model": "S4 41mm"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Xiaomi",
+      "series": "Watch",
+      "model": "2 Pro"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Xiaomi",
+      "series": "Watch",
+      "model": "2"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Xiaomi",
+      "series": "Watch",
+      "model": "S3"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Xiaomi",
+      "series": "Watch",
+      "model": "S2"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Amazfit",
+      "series": "GTR",
+      "model": "5 Pro"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Amazfit",
+      "series": "GTR",
+      "model": "4 Pro"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Amazfit",
+      "series": "GTR",
+      "model": "4"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Amazfit",
+      "series": "GTR",
+      "model": "3 Pro"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Amazfit",
+      "series": "GTS",
+      "model": "5"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Amazfit",
+      "series": "GTS",
+      "model": "4"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Amazfit",
+      "series": "GTS",
+      "model": "4 Mini"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Amazfit",
+      "series": "GTS",
+      "model": "3"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Garmin",
+      "series": "Venu",
+      "model": "4"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Garmin",
+      "series": "Venu",
+      "model": "3"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Garmin",
+      "series": "Venu",
+      "model": "3S"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Garmin",
+      "series": "Venu",
+      "model": "2 Plus"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Garmin",
+      "series": "Forerunner",
+      "model": "970"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Garmin",
+      "series": "Forerunner",
+      "model": "570"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Garmin",
+      "series": "Forerunner",
+      "model": "965"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Garmin",
+      "series": "Forerunner",
+      "model": "265"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Garmin",
+      "series": "Forerunner",
+      "model": "165"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Google",
+      "series": "Pixel Watch",
+      "model": "4"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Google",
+      "series": "Pixel Watch",
+      "model": "3"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Google",
+      "series": "Pixel Watch",
+      "model": "2"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "Google",
+      "series": "Pixel Watch",
+      "model": "1"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "OnePlus",
+      "series": "Watch",
+      "model": "3"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "OnePlus",
+      "series": "Watch",
+      "model": "2"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "OnePlus",
+      "series": "Watch",
+      "model": "2R"
+    },
+    {
+      "type": "Smartwatch",
+      "brand": "OnePlus",
+      "series": "Watch",
+      "model": "1"
+    },
+    {
+      "type": "Game Console",
+      "brand": "Sony",
+      "series": "PlayStation",
+      "model": "5 Pro"
+    },
+    {
+      "type": "Game Console",
+      "brand": "Sony",
+      "series": "PlayStation",
+      "model": "4 Slim"
+    },
+    {
+      "type": "Game Console",
+      "brand": "Nintendo",
+      "series": "Switch",
+      "model": "2"
+    },
+    {
+      "type": "Game Console",
+      "brand": "Valve",
+      "series": "Steam Deck",
+      "model": "OLED 1TB"
+    },
+    {
+      "type": "Game Console",
+      "brand": "Valve",
+      "series": "Steam Deck",
+      "model": "OLED 512GB"
+    },
+    {
+      "type": "Game Console",
+      "brand": "Valve",
+      "series": "Steam Deck",
+      "model": "LCD 512GB"
+    },
+    {
+      "type": "Game Console",
+      "brand": "Valve",
+      "series": "Steam Deck",
+      "model": "LCD 256GB"
+    },
+    {
+      "type": "Game Console",
+      "brand": "Valve",
+      "series": "Steam Deck",
+      "model": "LCD 64GB"
+    },
+    {
+      "type": "Game Console",
+      "brand": "ASUS",
+      "series": "ROG Ally",
+      "model": "X"
+    },
+    {
+      "type": "Game Console",
+      "brand": "ASUS",
+      "series": "ROG Ally",
+      "model": "2024"
+    },
+    {
+      "type": "Game Console",
+      "brand": "ASUS",
+      "series": "ROG Ally",
+      "model": "2023"
+    },
+    {
+      "type": "Game Console",
+      "brand": "Lenovo",
+      "series": "Legion Go",
+      "model": "2"
+    },
+    {
+      "type": "Game Console",
+      "brand": "Lenovo",
+      "series": "Legion Go",
+      "model": "S"
+    },
+    {
+      "type": "Game Console",
+      "brand": "Lenovo",
+      "series": "Legion Go",
+      "model": "2023"
+    },
+    {
+      "type": "Game Console",
+      "brand": "MSI",
+      "series": "Claw",
+      "model": "8 AI+"
+    },
+    {
+      "type": "Game Console",
+      "brand": "MSI",
+      "series": "Claw",
+      "model": "A1M"
+    },
+    {
+      "type": "Game Console",
+      "brand": "AYANEO",
+      "series": "Handheld",
+      "model": "3"
+    },
+    {
+      "type": "Game Console",
+      "brand": "AYANEO",
+      "series": "Handheld",
+      "model": "2S"
+    },
+    {
+      "type": "Game Console",
+      "brand": "AYANEO",
+      "series": "Handheld",
+      "model": "Air 1S"
+    },
+    {
+      "type": "Game Console",
+      "brand": "AYANEO",
+      "series": "Handheld",
+      "model": "NEXT 2"
+    },
+    {
+      "type": "Game Console",
+      "brand": "Logitech",
+      "series": "G Cloud",
+      "model": "Gaming Handheld"
+    }
+  ]
+}
